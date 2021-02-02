@@ -14,10 +14,10 @@
 
 3. Run the development server:
   ```
-  $ python app.py
+  $ python main.py
   ```
 ### Dashboard
-![Home page](https://github.com/imshubh17/Projects/blob/master/images/tsa/input.PNG?raw=true "Main Page")
-![Home page](https://github.com/imshubh17/Projects/blob/master/images/tsa/dashboard.PNG?raw=true "Dashboard")
-![Home page](https://github.com/imshubh17/Projects/blob/master/images/tsa/tweets.PNG?raw=true "Tweets")
+![Home page](https://github.com/sanilrod/Tweeter/blob/master/templates/1.png?raw=true "Main Page")
+![Home page](https://github.com/sanilrod/Tweeter/blob/master/templates/2.png?raw=true "Dashboard")
+![Home page](https://github.com/sanilrod/Tweeter/blob/master/templates/3.png?raw=true "Tweets")
 
