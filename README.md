@@ -19,7 +19,11 @@
 ### Dashboard
 ![Home page](https://github.com/sanilrod/Tweeter/blob/master/templates/1.png?raw=true "Main Page")
 
+
+
 ![Home page](https://github.com/sanilrod/Tweeter/blob/master/templates/2.png?raw=true "Dashboard")
+
+
 
 ![Home page](https://github.com/sanilrod/Tweeter/blob/master/templates/3.png?raw=true "Tweets")
 
